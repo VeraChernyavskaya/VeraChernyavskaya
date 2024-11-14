@@ -3,7 +3,8 @@
 ### Обо мне:
 
 Окончила курсы [Функциональное тестирование ПО](https://rusau.net/qa-from-scratch).
-Здесь можно посмотреть мое [резюме](https://drive.google.com/file/d/1NUk4d7FPaXFR0CoY9A95hQt5UvXkEdWY/view?usp=sharing)
+
+Здесь можно посмотреть мое [резюме](https://drive.google.com/file/d/1NUk4d7FPaXFR0CoY9A95hQt5UvXkEdWY/view?usp=sharing).
 
 Прохожу стажировку и планирую работать инженером по тестированию.
 

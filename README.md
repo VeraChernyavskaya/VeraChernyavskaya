@@ -6,7 +6,7 @@
 
 Здесь можно посмотреть мое [резюме](https://drive.google.com/file/d/1gnlokmYS93xCx-0EqjVYivATf4D2GY3k/view?usp=sharing).
 
-Успешно прошла [стажировку](https://drive.google.com/file/d/1PshZ-0ZvJDaaY__oBiOBefCTwf156BKS/view?usp=sharing) в компании Purrweb в роли QA и получила бесценный опыт работы на реальном проекте.
+Успешно прошла [стажировку](https://drive.google.com/file/d/1PshZ-0ZvJDaaY__oBiOBefCTwf156BKS/view?usp=sharing) в компании Purrweb в роли QA и получила хороший опыт работы на реальном проекте.
 
 ### Связаться со мной:
 

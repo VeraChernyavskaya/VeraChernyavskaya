@@ -4,7 +4,7 @@
 
 Окончила курсы [Функциональное тестирование ПО](https://rusau.net/qa-from-scratch).
 
-Здесь можно посмотреть мое [резюме](https://drive.google.com/file/d/1pqy3p0T6Bcmj_7miFwHjO9RWO3dOx7lM/view?usp=sharing).
+Здесь можно посмотреть мое [резюме](https://drive.google.com/file/d/1gnlokmYS93xCx-0EqjVYivATf4D2GY3k/view?usp=sharing).
 
 Успешно прошла [стажировку](https://drive.google.com/file/d/1PshZ-0ZvJDaaY__oBiOBefCTwf156BKS/view?usp=sharing) в компании Purrweb в роли QA и получила бесценный опыт работы на реальном проекте.
 

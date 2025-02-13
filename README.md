@@ -6,7 +6,7 @@
 
 Здесь можно посмотреть мое [резюме](https://drive.google.com/file/d/1pqy3p0T6Bcmj_7miFwHjO9RWO3dOx7lM/view?usp=sharing).
 
-Прохожу стажировку на должности инженера по тестированию, углубляю свои знания и навыки в области тестирования ПО.
+Успешно прошла [стажировку](https://drive.google.com/file/d/1PshZ-0ZvJDaaY__oBiOBefCTwf156BKS/view?usp=sharing) в компании Purrweb в роли QA и получила бесценный опыт работы на реальном проекте.
 
 ### Связаться со мной:
 
